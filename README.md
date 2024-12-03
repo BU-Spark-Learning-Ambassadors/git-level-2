@@ -1,19 +1,22 @@
-# < SKILL > Level 3
+# Git Level 2
 
-In this challenge you will build an app using < skill > that ... to demonstrate your skills in < skill >.
-
+In this challenge, you will demonstrate fundamental Git skills by managing a local repository, committing changes, and connecting to a remote repository. Follow the instructions found in the repository to complete this level.
 
 ## Requirements
 
 In order for the project to be considered "completed", it must complete the following requirements:
 
-1. **< Req 1 Name >:** fetches data from an API and renders the results in a table with paging
-2. **< Req 2 Name >:** uses `useState()` and `useEffect()` to manage variable changes and accessing API
-3. **< Req 3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
+### Git Basics
+
+Manage a local repository by initializing, committing, and exploring changes.
+
+### Remote Repository Basics
+
+Connect your local repository to a remote GitHub repository and push changes.
 
 ## Submission
 
-All code must be submitted as a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) following the PR template that will autogenerate when a PR is made
+After completing part 2, follow this [template](https://github.com/hajiix/git-level2/issues/1) to create an Issue in this Git Level 2 repo.
 
 It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give any feedback/badges associated with this challenge. However, if it takes longer than 2 weeks, please send an email to sparkttl@bu.edu.
 
@@ -29,3 +32,5 @@ See something in the docs that is unclear or think that this level 3 could use a
 <!-- <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://pngimg.com/d/gold_medal_PNG28.png" width='200'/>
 </div> -->
+
+Last updated: 2024-12-03 00:56:37
